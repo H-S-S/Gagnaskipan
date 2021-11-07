@@ -1,0 +1,20 @@
+Report on tesla shares
+-----------------------------------------------
+
+Highest price
+-----------------------------------------------
+Date: 2014-09-04
+Price: 286.04
+ 
+Lowest price
+-----------------------------------------------
+Date: 2010-07-07
+Price: 15.8
+ 
+Best buy-date: 2010-07-07
+Best sell-date:2014-09-04
+Profit: 270.24
+
+Worst buy-date: 2014-09-04
+Worst sell-date:2015-03-27
+Loss per share(not in percent like a real investor you idiot): 101.04000000000002

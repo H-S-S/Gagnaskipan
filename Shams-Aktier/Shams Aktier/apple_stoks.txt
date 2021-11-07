@@ -1,0 +1,20 @@
+Report on apple shares
+-----------------------------------------------
+
+Highest price
+-----------------------------------------------
+Date: 2015-05-22
+Price: 131.94276
+ 
+Lowest price
+-----------------------------------------------
+Date: 2003-04-17
+Price: 0.87632
+ 
+Best buy-date: 2003-04-17
+Best sell-date:2015-05-22
+Profit: 131.06644
+
+Worst buy-date: 2012-09-19
+Worst sell-date:2013-04-19
+Loss per share(not in percent like a real investor you idiot): 41.25397

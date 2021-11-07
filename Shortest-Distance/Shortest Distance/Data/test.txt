@@ -1,0 +1,36 @@
+0;0
+furuhjalli 7-klyfjasel 2;3.4
+furuhjalli 7-Bakkasel 15;2.2
+furuhjalli 7-Skipholt 50;5.7
+furuhjalli 7-Tryggvagata 19;10.1
+furuhjalli 7-Þúfusel 1;2.5
+klyfjasel 2-furuhjalli 7;3.5
+0;0
+klyfjasel 2-Bakkasel 15;1.5
+klyfjasel 2-Skipholt 50;8.6
+klyfjasel 2-Tryggvagata 19;11.5
+klyfjasel 2-Þúfusel 1;2.3
+Bakkasel 15-furuhjalli 7;2.2
+Bakkasel 15-klyfjasel 2;1.5
+0;0
+Bakkasel 15-Skipholt 50;7.3
+Bakkasel 15-Tryggvagata 19;10.3
+Bakkasel 15-Þúfusel 1;1.9
+Skipholt 50-furuhjalli 7;6.4
+Skipholt 50-klyfjasel 2;8.2
+Skipholt 50-Bakkasel 15;6.9
+0;0
+Skipholt 50-Tryggvagata 19;2.5
+Skipholt 50-Þúfusel 1;7.2
+Tryggvagata 19-furuhjalli 7;10.0
+Tryggvagata 19-klyfjasel 2;11.6
+Tryggvagata 19-Bakkasel 15;10.4
+Tryggvagata 19-Skipholt 50;2.5
+0;0
+Tryggvagata 19-Þúfusel 1;10.6
+Þúfusel 1-furuhjalli 7;2.5
+Þúfusel 1-klyfjasel 2;2.3
+Þúfusel 1-Bakkasel 15;1.9
+Þúfusel 1-Skipholt 50;7.6
+Þúfusel 1-Tryggvagata 19;10.5
+0;0

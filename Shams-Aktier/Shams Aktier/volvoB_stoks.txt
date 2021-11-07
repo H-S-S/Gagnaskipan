@@ -1,0 +1,20 @@
+Report on volvoB shares
+-----------------------------------------------
+
+Highest price
+-----------------------------------------------
+Date: 2007-07-16
+Price: 125.532
+ 
+Lowest price
+-----------------------------------------------
+Date: 2002-10-10
+Price: 21.059
+ 
+Best buy-date: 2002-10-10
+Best sell-date:2007-07-16
+Profit: 104.473
+
+Worst buy-date: 2007-07-16
+Worst sell-date:2008-11-20
+Loss per share(not in percent like a real investor you idiot): 100.756
